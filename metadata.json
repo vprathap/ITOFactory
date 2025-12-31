@@ -1,0 +1,5 @@
+{
+  "name": "IPOFactory",
+  "description": "An AI-powered platform that transforms document requirements into fully-structured, aesthetic React websites using Gemini 3 Pro reasoning.",
+  "requestFramePermissions": []
+}
